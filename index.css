@@ -1,0 +1,21 @@
+body {
+  background-color: aqua;
+  font-size: large;
+}
+div {
+  background-color: red;
+}
+h1 {
+  font-family: "pak";
+  font-size: smaller;
+}
+@font-face {
+  font-family: "pak";
+  src: url(/Pattaya-Regular.ttf);
+}
+h2 {
+  font-size: larger;
+}
+p {
+  font-size: 0.5cm;
+}
